@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geordan</h1>
 <h3 align="center">A frontend developer from Illinois</h3>
 
-<p align="left"> <a href="https://twitter.com/geordand" target="blank"><img src="https://img.shields.io/twitter/follow/geordand?logo=twitter&style=for-the-badge" alt="geordand" /></a> </p>
+<p align="left"> <a href="https://twitter.com/killerskoi" target="blank"><img src="https://img.shields.io/twitter/follow/geordand?logo=twitter&style=for-the-badge" alt="geordand" /></a> </p>
 
 - 🌱 I’m currently learning **Front end development @ Promineo Tech**
 
