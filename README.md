@@ -10,7 +10,7 @@ Currently I am enrolled in a Front End coding bootcamp with Promineo Tech Learni
 * 🖥️  See my portfolio at [My GitHub](http://GitHub.com/GeordanD)
 * ✉️  You can contact me at [geordan\_daugherty@hotmail.com](mailto:geordan_daugherty@hotmail.com)
 * 🚀  I'm currently working on [A Website I made using HTML and CSS](http://geordand.github.io/GeordanD-week-08-coding-assignment/)
-* 🧠  I'm learning BootStrap
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Anything I enjoy helping others it helps us all learn!
 * ⚡  yes my name starts with a G
 
